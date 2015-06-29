@@ -7,14 +7,21 @@ It is an intermediate step between staging area and working directory.It allows 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+The files in the staging area can be compared with the files in the working directory , before commiting them to the repository . This way it can be ensured that there is one commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+For example If I need to experiment with the code and then branching is helpful.It will help me in not loosing the correct working copy of the code
+
 How do the diagrams help you visualize the branch structure?
+
+It is easy for me to trace the complete history of a branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
