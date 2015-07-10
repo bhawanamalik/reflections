@@ -3,3 +3,6 @@ When I would like my code to available for reviews or suggestions by other users
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 The developer has more control when the changes are pulled manually as compared to automatic syncing
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forking is doe on Github only. Cloning can happen from Github to local machine  and on the local machine as well.Branching is checking out a copy from the local directory with a different name other than the master 
